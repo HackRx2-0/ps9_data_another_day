@@ -1,0 +1,48 @@
+{
+  "id": "beca273f-21b0-47bb-be5e-2985a95848ad",
+  "parentId": "72822fad-46b6-4420-a2ad-7d783448a8d0",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - 18 - 45 - male - Other/None",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-18-45-male-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-18-45-custom.Recommendmeaplan-18-45-male-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.bajajfinservhealth.in/aarogya-care/complete-health-solution-silver",
+          "title": "You might like our Complete Health Solution – Silver Plan",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "91e5378a-5d21-431f-8183-b153358be5c8",
+    "data": [
+      {
+        "text": "Woman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ecdea4c-c09d-4c73-897c-bd7a2796acbc",
+    "data": [
+      {
+        "text": "Female",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

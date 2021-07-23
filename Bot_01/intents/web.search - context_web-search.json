@@ -1,0 +1,49 @@
+{
+  "id": "d6228496-dfb7-4f15-b944-427300d8b74c",
+  "name": "web.search - context:web-search",
+  "auto": true,
+  "contexts": [
+    "web-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "388425d1-fe8e-46aa-861d-1492053e1941",
+          "name": "q",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$q",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

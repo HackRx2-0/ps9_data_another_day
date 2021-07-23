@@ -1,30 +1,37 @@
 {
-  "id": "b88313b5-0901-4b44-b191-1a2e882a982e",
-  "name": "Default Welcome Intent",
+  "id": "4373e2da-3f7b-48b2-bbc0-b27d9ae8a5a7",
+  "name": "FAQs",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": "0",
+          "platform": "telegram",
           "title": "",
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Hi! How are you doing?",
-            "Hello! How can I help you?",
-            "Good day! What can I do for you today?",
-            "Greetings! How can I assist?",
-            "Hello, I am Assure - The chat bot. I am here to help you provide assistance on your medical insurance and other health needs. How may I help you today."
+            "Please enter a Keyword or Question you would like to know about."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
           "condition": ""
         }
       ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
       "speech": []
     }
   ],
@@ -32,11 +39,7 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "WELCOME"
-    }
-  ],
+  "events": [],
   "conditionalResponses": [],
   "condition": "",
   "conditionalFollowupEvents": []

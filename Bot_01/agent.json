@@ -38,5 +38,5 @@
   "knowledgeServiceConfidenceAdjustment": 0.0,
   "dialogBuilderMode": false,
   "baseActionPackagesUrl": "",
-  "enableSpellCorrection": false
+  "enableSpellCorrection": true
 }

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ed2431ed-fc64-437f-9a88-1d48fe0b9243",
+    "data": [
+      {
+        "text": "Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "518896a5-d217-408e-8fa8-45259dc2ead3",
+    "data": [
+      {
+        "text": "Yes Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a1aaafa-0ac2-43cd-a07e-3f6a9ef29919",
+    "data": [
+      {
+        "text": "Yes, Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

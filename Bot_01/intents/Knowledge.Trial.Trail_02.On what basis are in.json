@@ -1,0 +1,40 @@
+{
+  "id": "108210a3-2e6f-4e65-bbf6-8bd15de9ceab",
+  "name": "Knowledge.Trial.Trail_02.On what basis are in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KnowledgeTrialTrail_02Onwhatbasisarein-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The claims being paid depends on the nature of the policy, whether it is indemnity or cashless. In indemnity policies, the degree of financial loss is validated by the insurer by means of inspection and verification of documents and bills submitted. Upon being convinced that the claims are not unfairly sought, the insurer processes the payment of the claim amount. Whereas in a cashless policy the insurance company has tie-ups with the network hospitals, or garages. The company liaises with the hospitals/garages and directly makes the payment for the insured’s treatment/vehicle repair costs as per the terms of the policy. "
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

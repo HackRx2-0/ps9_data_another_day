@@ -16,6 +16,12 @@
           "imageUrl": "https://wp-api.bajajfinservhealth.in/wp-content/uploads/2021/07/MicrosoftTeams-image-9-2048x2048.png",
           "subtitle": "https://www.bajajfinservhealth.in/articles/planning-a-cataract-surgery-here-are-some-health-insurance-facts-to-know",
           "title": "Planning a Cataract Surgery? Here are Some Health Insurance Facts to Know",
+          "buttons": [
+            {
+              "postback": "https://www.bajajfinservhealth.in/articles/planning-a-cataract-surgery-here-are-some-health-insurance-facts-to-know",
+              "text": "Cataract is a condition that causes clouding in the eye lens  Cataract is responsible for 80% of blindness in India  The cost of cataract surgery in India is Rs.65,000 on average"
+            }
+          ],
           "textToSpeech": "",
           "lang": "en",
           "condition": ""
@@ -31,9 +37,6 @@
           "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {
-        "telegram": true
-      },
       "speech": []
     }
   ],

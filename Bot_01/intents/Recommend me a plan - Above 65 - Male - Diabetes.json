@@ -1,0 +1,48 @@
+{
+  "id": "e1431fa0-be48-4182-9a95-3ad3132f81a2",
+  "parentId": "ce27f32c-48b9-496d-8c8c-d50c2684a3cc",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - Above 65 - Male - Diabetes",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-Above65-Male-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-Above65-custom.Recommendmeaplan-Above65-Male-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.bajajfinservhealth.in/aarogya-care/diabetes-care-basic",
+          "title": "You might like our Diabetes Care Basic plan",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

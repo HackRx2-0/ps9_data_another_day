@@ -1,30 +1,37 @@
 {
-  "id": "b88313b5-0901-4b44-b191-1a2e882a982e",
-  "name": "Default Welcome Intent",
+  "id": "e0d15a3a-4990-4753-9c88-63008861ff29",
+  "name": "18 - 30",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
+      "action": "18-30",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": "0",
+          "platform": "telegram",
           "title": "",
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Hi! How are you doing?",
-            "Hello! How can I help you?",
-            "Good day! What can I do for you today?",
-            "Greetings! How can I assist?",
-            "Hello, I am Assure - The chat bot. I am here to help you provide assistance on your medical insurance and other health needs. How may I help you today."
+            "You can go with Bajaj Platinum Plan"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
           "condition": ""
         }
       ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
       "speech": []
     }
   ],
@@ -32,11 +39,7 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "WELCOME"
-    }
-  ],
+  "events": [],
   "conditionalResponses": [],
   "condition": "",
   "conditionalFollowupEvents": []

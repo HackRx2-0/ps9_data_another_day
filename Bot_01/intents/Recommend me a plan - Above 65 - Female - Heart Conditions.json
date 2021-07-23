@@ -1,0 +1,49 @@
+{
+  "id": "739d786d-d505-4009-a287-6406f434b9bb",
+  "parentId": "5b8c4d44-15eb-45a4-b0c7-f96da25dd917",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - Above 65 - Female - Heart Conditions",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-Above65-custom-followup",
+    "Recommendmeaplan-Above65-Female-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-Above65-custom.Recommendmeaplan-Above65-Female-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.bajajfinservhealth.in/aarogya-care/cardiac-care-basic",
+          "title": "You might like our Cardiac Care Basic plan",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

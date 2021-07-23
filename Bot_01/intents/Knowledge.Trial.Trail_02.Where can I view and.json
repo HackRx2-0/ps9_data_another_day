@@ -1,12 +1,12 @@
 {
-  "id": "b88313b5-0901-4b44-b191-1a2e882a982e",
-  "name": "Default Welcome Intent",
+  "id": "78f1e1b8-d8a0-43bd-86b5-704037976b2c",
+  "name": "Knowledge.Trial.Trail_02.Where can I view and",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -16,11 +16,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Hi! How are you doing?",
-            "Hello! How can I help you?",
-            "Good day! What can I do for you today?",
-            "Greetings! How can I assist?",
-            "Hello, I am Assure - The chat bot. I am here to help you provide assistance on your medical insurance and other health needs. How may I help you today."
+            "You will receive the Welcome Letter on your registered mobile number and email ID. It can also be viewed on Bajaj Finserv Health App which is available to you as part of the product bundle. "
           ],
           "condition": ""
         }
@@ -32,11 +28,7 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "WELCOME"
-    }
-  ],
+  "events": [],
   "conditionalResponses": [],
   "condition": "",
   "conditionalFollowupEvents": []
