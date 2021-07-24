@@ -37,7 +37,7 @@ You are required to develop a chatbot that can handle NLP (natural language proc
 
 ## Contributors
 
-- [Avneesh Dubey](https://github.com/avneeshdubey99).
+- [Avneesh Dubey](https://github.com/avneeshdubey99)
 
 - [Ayaan Khan](https://github.com/ayaan-27)
 
