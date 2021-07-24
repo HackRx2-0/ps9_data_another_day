@@ -17,14 +17,14 @@ You are required to develop a chatbot that can handle NLP (natural language proc
 ## About
 
 ## Telegram Bot
-<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot1.jpg"> 
-<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot2.jpeg">
-<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot3.jpeg">
+### Here is the Main UI for the Telegram bot<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot1.jpg"> 
+### Keyword intent matching<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot2.jpeg">
+### Facilitating human-like sonversational flow using smalltalk and product recommendation<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot3.jpeg">
 
 
 ## BERT Model
 
-### Here is the Main UI for the BERT based Chatbot
+### Here is the Main UI for the bot based on BERT Model
 !['Main UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/753d6c105ea9363b4c2a5c352d5ff044aef8c909/BERT_chatbot/mainui.jpg)
 #
 #
