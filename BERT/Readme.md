@@ -5,11 +5,10 @@
 ## BOT for Product Queries
 ### A DialogFlow and BERT based app deployed on Telegram and Ngrok respectively.
 #
-#
-### Here is the Main UI for the BERT based Chatbot
-!['Main UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/753d6c105ea9363b4c2a5c352d5ff044aef8c909/BERT_chatbot/mainui.jpg)
+### Here is the Main UI for the bot based on BERT Model
+!['Main UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/mainui.jpg)
 #
 #
 ### Here is the Recommendation UI (Continued from Main) for the BERT based Chatbot
-!['Recommend UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/753d6c105ea9363b4c2a5c352d5ff044aef8c909/BERT_chatbot/main2ui.jpg)
+!['Recommend UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/main2ui.jpg)
 
