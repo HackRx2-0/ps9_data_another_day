@@ -1,0 +1,49 @@
+{
+  "id": "98eb3311-f9eb-4048-b22b-a7e5eb2f427c",
+  "parentId": "5b8c4d44-15eb-45a4-b0c7-f96da25dd917",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - Above 65 - Female - None/Other",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-Above65-custom-followup",
+    "Recommendmeaplan-Above65-Female-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-Above65-custom.Recommendmeaplan-Above65-Female-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.bajajfinservhealth.in/aarogya-care/complete-health-solution",
+          "title": "You might like our Complete Health Solution",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

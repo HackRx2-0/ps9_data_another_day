@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0f4b92d9-8356-4c39-aa54-36f8d012fae3",
+    "data": [
+      {
+        "text": "what is a Health EMI card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c46ef7b5-bbab-4b89-91b8-0a9b0210682a",
+    "data": [
+      {
+        "text": "Health EMI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c64fe1cb-34e6-4d03-9f09-dbf5a312cd47",
+    "data": [
+      {
+        "text": "Health EMI Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f086b60b-7e09-4b34-9cc0-066e4e317100",
+    "data": [
+      {
+        "text": "Bajaj Finserv Health EMI Network Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a10dd620-74d4-4b9d-9f40-bd418e068146",
+    "data": [
+      {
+        "text": "What are the treatments that I can use the Bajaj Finserv Health EMI Network Card for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

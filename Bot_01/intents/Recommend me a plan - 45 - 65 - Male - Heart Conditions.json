@@ -1,0 +1,48 @@
+{
+  "id": "7d1b3ac4-9042-4c12-8008-755b7e66cb26",
+  "parentId": "4504aaf3-8db6-4e90-a354-88474c2e87e2",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - 45 - 65 - Male - Heart Conditions",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-45-65-Male-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-45-65-custom.Recommendmeaplan-45-65-Male-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.bajajfinservhealth.in/aarogya-care/cardiac-care-plus",
+          "title": "You might like our Cardiac Care Plus plan",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

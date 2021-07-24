@@ -1,0 +1,28 @@
+[
+  {
+    "id": "eb92532f-c123-48f3-907e-19f70799fb9d",
+    "data": [
+      {
+        "text": "FAQ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e602ca1e-a49e-4e58-8d58-cf70ee763989",
+    "data": [
+      {
+        "text": "FAQs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

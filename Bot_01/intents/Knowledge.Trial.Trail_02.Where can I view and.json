@@ -1,0 +1,35 @@
+{
+  "id": "78f1e1b8-d8a0-43bd-86b5-704037976b2c",
+  "name": "Knowledge.Trial.Trail_02.Where can I view and",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You will receive the Welcome Letter on your registered mobile number and email ID. It can also be viewed on Bajaj Finserv Health App which is available to you as part of the product bundle. "
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

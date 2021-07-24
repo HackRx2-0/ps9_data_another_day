@@ -1,0 +1,77 @@
+{
+  "id": "f8b3275a-711f-4e03-bebb-95ac13ac3736",
+  "name": "web.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "control_lists_web_search",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "websearch-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "626d7da0-e224-4a8a-8c71-52c82d5f91e7",
+          "name": "q",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$q",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "412cecc0-2ff7-418f-8eeb-cc80ec82c9aa",
+          "name": "service",
+          "required": false,
+          "dataType": "@search-engine",
+          "value": "$service",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

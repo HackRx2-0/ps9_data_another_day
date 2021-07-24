@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ccada92c-cb94-4015-a01f-69fe9a833682",
+    "data": [
+      {
+        "text": "track Health Solution-Platinum plan post purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac81332a-4f11-4ff1-ab48-f8584f00059b",
+    "data": [
+      {
+        "text": "view Health Solution-Platinum plan post-purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0661dcb-9067-4901-822e-39c765cd156d",
+    "data": [
+      {
+        "text": "Where can I view and track my Complete Health Solution-Platinum plan post purchase?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

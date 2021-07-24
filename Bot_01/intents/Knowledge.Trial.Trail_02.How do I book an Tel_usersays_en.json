@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d2d36c76-a332-4ed6-8cef-9ba3a8a37975",
+    "data": [
+      {
+        "text": "book tele consult appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d103bc69-11b0-4fda-9846-c668bcea61ea",
+    "data": [
+      {
+        "text": "tele consult appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12b2c095-e5e9-49e3-9036-3280c81c1345",
+    "data": [
+      {
+        "text": "How do I book an Tele-consult appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

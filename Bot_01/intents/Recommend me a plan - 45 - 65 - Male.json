@@ -1,0 +1,57 @@
+{
+  "id": "4504aaf3-8db6-4e90-a354-88474c2e87e2",
+  "parentId": "9775f016-5beb-4dc8-b2d6-50c0ed96b970",
+  "rootParentId": "387c3202-c212-4d4b-a76b-023b50cbb104",
+  "name": "Recommend me a plan - 45 - 65 - Male",
+  "auto": true,
+  "contexts": [
+    "Recommendmeaplan-45-65-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendmeaplan.Recommendmeaplan-custom.Recommendmeaplan-45-65-custom",
+      "affectedContexts": [
+        {
+          "name": "Recommendmeaplan-45-65-Male-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you have any Health Conditions?",
+          "replies": [
+            "Diabetes",
+            "Heart Conditions",
+            "None/Other"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

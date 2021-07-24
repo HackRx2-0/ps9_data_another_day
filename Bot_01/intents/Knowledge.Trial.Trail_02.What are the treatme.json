@@ -1,0 +1,35 @@
+{
+  "id": "0f12bdb0-dc63-4d78-b4e1-9f0607cb58f3",
+  "name": "Knowledge.Trial.Trail_02.What are the treatme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Health EMI Network Card can be used for 800+ treatments such as dental care, hair transplants, wellness procedures, and eyecare to diagnostic care, stem cell banking and more."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

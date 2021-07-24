@@ -1,0 +1,87 @@
+[
+  {
+    "id": "620b1474-6504-46ed-8451-ad8da45607bc",
+    "data": [
+      {
+        "text": "coronavirus care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0365dfc8-ff14-462c-ae28-8175b653cbd0",
+    "data": [
+      {
+        "text": "covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e65357e3-232b-43ab-8a35-1dc5ada81bef",
+    "data": [
+      {
+        "text": "coronavirus benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c610cb9c-487d-4c1c-9502-22e7a1ae4790",
+    "data": [
+      {
+        "text": "Covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "530e0858-851a-42c8-b9fb-acf586e5ee83",
+    "data": [
+      {
+        "text": "How can I utilize my COVID-19 benefits?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

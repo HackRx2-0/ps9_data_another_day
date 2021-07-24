@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ed06e246-e00c-412a-b602-395b7e775d0d",
+    "data": [
+      {
+        "text": "Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba29c198-9444-4d49-97f7-13a316bf5506",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f375c7cc-09ea-449d-b6a0-45c22f3b440c",
+    "data": [
+      {
+        "text": "Yes Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81b05ad7-7532-48ce-87ef-f2fec63a4c22",
+    "data": [
+      {
+        "text": "Yes, Heart Conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

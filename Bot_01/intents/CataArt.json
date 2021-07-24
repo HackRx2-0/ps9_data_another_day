@@ -1,0 +1,51 @@
+{
+  "id": "fabab383-663a-4d38-8503-1738f216a5ce",
+  "name": "CataArt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://wp-api.bajajfinservhealth.in/wp-content/uploads/2021/07/MicrosoftTeams-image-9-2048x2048.png",
+          "subtitle": "https://www.bajajfinservhealth.in/articles/planning-a-cataract-surgery-here-are-some-health-insurance-facts-to-know",
+          "title": "Planning a Cataract Surgery? Here are Some Health Insurance Facts to Know",
+          "buttons": [
+            {
+              "postback": "https://www.bajajfinservhealth.in/articles/planning-a-cataract-surgery-here-are-some-health-insurance-facts-to-know",
+              "text": "Cataract is a condition that causes clouding in the eye lens  Cataract is responsible for 80% of blindness in India  The cost of cataract surgery in India is Rs.65,000 on average"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Planning a Cataract Surgery? Here are Some Health Insurance Facts to Know"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
