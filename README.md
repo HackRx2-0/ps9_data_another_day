@@ -17,6 +17,7 @@ You are required to develop a chatbot that can handle NLP (natural language proc
 ## About
 
 ## Telegram Bot
+
 ### Here is the Main UI for the Telegram bot<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot1.jpg"> 
 ### Keyword intent matching<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot2.jpeg">
 ### Facilitating human-like sonversational flow using smalltalk and product recommendation<img src = "https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot3.jpeg">
